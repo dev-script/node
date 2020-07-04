@@ -8,8 +8,8 @@
 
 <!-- source_link=lib/fs.js -->
 
-The `fs` module enables interacting with the file system in a
-way modeled on standard POSIX functions.
+The `fs` module provides an API for interacting with the file system in a
+manner closely modeled around standard POSIX functions.
 
 To use this module:
 
